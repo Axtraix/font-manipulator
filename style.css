@@ -1,0 +1,14 @@
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(43, 175, 211);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(27, 69, 69);
+    line-height: 3;
+    text-align: center;
+}
